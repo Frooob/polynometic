@@ -1,0 +1,25 @@
+.DS_Store
+*.code-workspace
+
+folien/
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+out/
+
+### VS Code ###
+.vscode/
+
+*.pyc
+*.pkl
+
+*.png
+
+__pycache__/
+.ipynb_checkpoints/
+
+Praktikum1/
+Lerntagebücher/

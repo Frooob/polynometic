@@ -46,3 +46,7 @@ and which one has been the best solution
 ## Example 
 Since this is a very interactive project, it's best to have a graphic example 
 on how it works. Enjoy!
+
+
+https://user-images.githubusercontent.com/42912323/117483111-96b60100-af65-11eb-8d41-7e90c0266a83.mp4
+

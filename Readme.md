@@ -5,6 +5,14 @@ The input is a cloud of measurement points, that is generated from an unknown po
 
 All parameters can be set interactively with jupyter widgets. 
 
+## Example 
+Since this is a very interactive project, it's best to have a graphic example 
+on how it works. Enjoy!
+
+
+https://user-images.githubusercontent.com/42912323/117483111-96b60100-af65-11eb-8d41-7e90c0266a83.mp4
+
+
 ## Installation  
 Create and activate a virtual environment to be able to install the dependencies with a fresh python copy, then install the requirements:
     
@@ -42,11 +50,4 @@ After setting all the options and determining how the polynomial that the geneti
 algorithm has to learn is supposed to look like, you can start the simulation. 
 After it is done, you can see how the different generations approximated the polynomial 
 and which one has been the best solution
-
-## Example 
-Since this is a very interactive project, it's best to have a graphic example 
-on how it works. Enjoy!
-
-
-https://user-images.githubusercontent.com/42912323/117483111-96b60100-af65-11eb-8d41-7e90c0266a83.mp4
 
